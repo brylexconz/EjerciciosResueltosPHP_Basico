@@ -1,3 +1,7 @@
+<!-- 
+Crea una Apliacion que permite mostrar una tabla con 3 columnas y 200 filas , en la primera columna muestra un un casilla de verificacion y la segunda muestra del 1 al 200 de manera descendente y la tercera columnas de manera accedente, coloreando las filas donde el numero se par de un color diferente al impar.
+-->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -17,7 +21,6 @@
 	</style>
 </head>
 <body>
-<p>Crear una Aplicacion</p>
 
 
 <table border="1" cellpadding="0" cellspacing="0">
